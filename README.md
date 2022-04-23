@@ -1,7 +1,3 @@
-### Hi there 👋
+### Welcome!!! 👋
 
-<!--
-**AmyWilhoite/AmyWilhoite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Add this ![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
--->
+![ Hmmmm](/assets/IMG_1803.gif) 
