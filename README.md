@@ -1,4 +1,4 @@
-![ About Me](/assets/amygithubnew.png) 
+![ About Me](/assets/amygithub1.png) 
 
 ## About Me
 
